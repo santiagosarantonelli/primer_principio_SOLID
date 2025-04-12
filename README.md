@@ -1,1 +1,1 @@
-# primer_principio_SOLID
+# Practicando primer principio SOLID, Principio de responsabilidad única.
